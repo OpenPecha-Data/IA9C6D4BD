@@ -1,10 +1,10 @@
-|P001770|སྔགས་མང་ཞིབ་འཇུག ༼༦༽ 
+|IA9C6D4BD|སྔགས་མང་ཞིབ་འཇུག ༼༦༽ 
 | --- | --- 
 |Alternative Title |
 |Author | 
 |BDRC ID | W2DB4608
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P001770)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P001770/releases/download/v1/ngak_mang_shyibjuk_plain_P001770.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P001770/releases/download/v1/ngak_mang_shyibjuk_pages_P001770.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/IA9C6D4BD)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/IA9C6D4BD/releases/download/v1/ngak_mang_shyibjuk_plain_IA9C6D4BD.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/IA9C6D4BD/releases/download/v1/ngak_mang_shyibjuk_pages_IA9C6D4BD.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W2DB4608)
